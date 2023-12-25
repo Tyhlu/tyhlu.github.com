@@ -1,2 +1,3 @@
 RewriteEngine On
 RewriteRule ^tyhlu$ index.html [L]
+RewriteRule ^sacks5ith$ sacks5ith.html.html [L]
