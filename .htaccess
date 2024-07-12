@@ -2,3 +2,4 @@ RewriteEngine On
 RewriteRule ^tyhlu$ index.html [L]
 RewriteRule ^sacks5ith$ sacks5ith.html [L]
 RewriteRule ^speed$ speed.html [L]
+RewriteRule ^crucif1x$ crucif1x.html [L]
